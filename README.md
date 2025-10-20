@@ -24,7 +24,6 @@ El laboratorio consta de cuatro ejercicios independientes, cada uno en su propio
 | Archivo | Nivel | API Utilizada | Descripción |
 | :--- | :--- | :--- | :--- |
 | `ejercicio1.html` | Básico | **JSONPlaceholder** | Obtiene y lista 10 usuarios. Primer contacto con `fetch` y promesas. |
-| `ejercicio1.html` | Básico | **JSONPlaceholder** | Obtiene y lista 10 usuarios. Primer contacto con `fetch` y promesas. |
 | `ejercicio2.html` | Básico-Intermedio | **PokéAPI** | Crea un buscador dinámico de Pokémon por nombre o ID, incluyendo la visualización de datos y manejo del error **404**. |
 | `ejercicio3.html` | Intermedio | **REST Countries** | Implementa un explorador de países con opciones de **búsqueda por nombre** o **filtrado por región**, y limita los resultados. |
 | `ejercicio4.html` | Intermedio-Avanzado | **JSONPlaceholder** | Desarrolla una aplicación de blog que maneja **múltiples peticiones encadenadas** (cargar usuarios, cargar posts, contar comentarios y cargar comentarios al hacer clic). |
